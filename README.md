@@ -1,4 +1,4 @@
-# Neha Jethiye 🚀
+# Neha Jethiye 
 **Frontend Engineer** • Angular Developer
 [neha.lachuria@gmail.com](mailto:neha.lachuria@gmail.com) · [LinkedIn](https://www.linkedin.com/in/neha-jethiye)
 
