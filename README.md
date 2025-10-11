@@ -36,15 +36,12 @@ Frontend Engineer with 2+ years building performant, mobile-first web applicatio
 ## Selected Projects
 - **Workout Partner** — *MERN* (MongoDB, Express, React, Node)  
   Full-stack workout management app with JWT auth and MongoDB Atlas backend.  
-  Repo: `https://github.com/JethiyeNeha/workout-partner` *(create or update this repo with your code)*
 
 - **Recipe Book with Shopping List** — *Angular + Firebase*  
   Angular frontend with real-time Firestore sync for recipes and shopping lists.  
-  Repo: `https://github.com/JethiyeNeha/recipe-book-firebase`
 
 - **Snake Game** — *Vanilla JS*  
   Classic snake game built using HTML, CSS, and pure JavaScript/DOM manipulation.  
-  Repo: `https://github.com/JethiyeNeha/snake-game`
 
 ---
 
